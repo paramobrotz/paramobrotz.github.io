@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 redirect from:
   - /research.html
+  - /research/
 ---
 
 
