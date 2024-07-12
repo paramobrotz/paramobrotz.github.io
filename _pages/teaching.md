@@ -3,6 +3,9 @@ layout: archive
 title: "Teaching and mentorship"
 permalink: /teaching/
 author_profile: true
+redirect from:
+  - /teaching.html
+  - /teaching/
 ---
 
 ## University of California, Berkeley 
