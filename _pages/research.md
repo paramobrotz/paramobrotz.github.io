@@ -11,7 +11,7 @@ redirect from:
 
 ## Working Papers 
 
-### Who calls the shots? How financial incentives impact the adoption of a new health technology
+### Who calls the shots? Financial incentives and provider influence in the adoption of a new health technology
 Job Market Paper
 
 In healthcare, the decision to adopt a product is a joint problem between the healthcare professional and the patient. At the same time, subsidies and incentive programs in low and middle-income countries (LMIC) have become an important policy tool to increase the adoption of new health technologies. Using data from a randomized control trial (RCT) in Kenya, this paper employs a structural model of patient demand and provider counseling to study the welfare effects to the patient from the introduction of demand and supply side subsidies for a new contraceptive technology. The experimental variation and structural model allow to study the channels that lead to the diffusion of the new health technology, including the role of provider counseling, provider financial incentives and altruism, and patient’s preferences. Taken together, the results suggest that the provider's counseling role is key in increasing adoption of the new technology and making subsidy programs successful, regardless of whether the subsidies target the patient or the provider.
