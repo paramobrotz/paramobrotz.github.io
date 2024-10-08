@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD Candidate in the [Economics Department](https://www.econ.berkeley.edu/) at UC Berkeley. 
 <br clear="right"/>
-<br> My research interests are development economics, healthcare economics, and industrial organization. 
+<br> My research interests are development economics, industrial organization, and healthcare economics. 
 
 ## Working Papers 
 
