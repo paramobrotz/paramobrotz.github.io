@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Presentations"
+title: "Selected academic presentations"
 permalink: /presentations/
 author_profile: true
 redirect from:
   - /presentations.html
   - /presentations/
 ---
-
-# Selected academic presentations
 
 ## 2024
 * North East Universities Development Consortium, Northeastern University, Boston MA, USA
