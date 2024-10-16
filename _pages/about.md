@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the [Economics Department](https://www.econ.berkeley.edu/) at UC Berkeley. 
+I am a PhD Candidate in the Economics Department at UC Berkeley. **I will be on the 2024-25 Academic Job Market.** 
 <br clear="right"/>
-<br> My research interests are development economics, industrial organization, and healthcare economics. 
+<br> My research and teaching interests are development economics, industrial organization, and healthcare economics. 
 
 ## Working Papers 
 
@@ -26,6 +26,18 @@ With [Johannes Haushofer](https://haushofer.ne.su.se/), [Edward Miguel](https://
 
 A large literature has examined how best to target anti-poverty programs to those most deprived in some sense (e.g., consumption). We examine the potential tradeoff between this objective and targeting those most impacted by such programs. We work in the context of an NGO cash transfer program in Kenya, employing recent advances in machine learning methods and dynamic outcome data to learn proxy means tests that jointly target both objectives. Targeting solely on the basis of deprivation is not attractive in this setting under standard social welfare criteria unless the planner’s preferences are extremely redistributive.
 
+## Works in progress
+
+### Using Diagnosis Contingent Incentive Contracts to Improve Malaria Treatment
+With [Maria Dieci](https://mariadieci.com/), [Paul Gertler](https://www.paulgertler.com/), and [Jonathan Kolstad](https://www.jkolstad.org/)
+
+### Demand for generic medications and unobserved product quality in Mexico
+With Adrian Rubli
+
+### Optimal incentive contracts for malaria case-management
+With With [Maria Dieci](https://mariadieci.com/) and [Paul Gertler](https://www.paulgertler.com/)
+
+### Public funding and medical innovation
 
 <!-- ## Other projects
 
