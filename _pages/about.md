@@ -34,7 +34,7 @@ A large literature has examined how best to target anti-poverty programs to thos
 With [Maria Dieci](https://mariadieci.com/), [Paul Gertler](https://www.paulgertler.com/), and [Jonathan Kolstad](https://www.jkolstad.org/)
 
 ### Demand for generic medications and unobserved product quality in Mexico
-With Adrian Rubli
+With [Adrian Rubli](https://www.adrianrubli.com/)
 
 ### Optimal incentive contracts for malaria case-management
 With With [Maria Dieci](https://mariadieci.com/) and [Paul Gertler](https://www.paulgertler.com/)
