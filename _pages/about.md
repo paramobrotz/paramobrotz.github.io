@@ -12,6 +12,8 @@ I am a PhD Candidate in the Economics Department at UC Berkeley. **I will be on 
 <br clear="right"/>
 <br> My research and teaching interests are development economics, industrial organization, and healthcare economics. 
 
+You can find my CV [here](https://www.dropbox.com/scl/fi/ic9g8acurditm5yybhfpk/CV_draft_Carlos_Paramo.pdf?rlkey=f6w1t2nuzxp7r66vbs5m7cgju&st=x6kf2e29&dl=0).
+
 ## Working Papers 
 
 ### Who calls the shots? Financial incentives and provider influence in the adoption of a new health technology
