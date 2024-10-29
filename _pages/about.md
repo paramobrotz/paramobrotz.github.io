@@ -17,7 +17,7 @@ You can find my CV [here](https://www.dropbox.com/scl/fi/ic9g8acurditm5yybhfpk/C
 ## Working Papers 
 
 ### Who calls the shots? Financial incentives and provider influence in the adoption of a new health technology
-Job Market Paper
+[Job Market Paper](https://www.dropbox.com/scl/fo/jcqkmiv257wh6r3xjai8g/AHjbglr6ZG9fpeTdnvhhYwI?rlkey=qo6ptijlxi13mqaj003hihcb7&st=5ywzzvwc&dl=0)
 
 The choice to adopt an effective healthcare product is a joint decision between the patient and their medical professional. Many governments and payers use patient subsidies and provider incentives in low- and middle-income countries to increase the adoption of new health technologies. Using data from a randomized field experiment in Kenya, I estimate a structural model of patient demand and provider counseling for a new contraceptive method. I then use the model to study the welfare effects to the patient from the introduction of demand and supply side incentives for the new technology. The experimental variation and structural model allow the study of channels that lead to the diffusion of the new health technology, including the role of provider counseling, provider financial incentives and altruism, and patient’s preferences. Taken together, the results suggest that the provider’s counseling role is key in increasing adoption of the new technology and making incentive programs effective, regardless of whether the policy targets the patient or the provider.
 
