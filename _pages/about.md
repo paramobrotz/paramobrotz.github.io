@@ -37,7 +37,7 @@ With [Maria Dieci](https://mariadieci.com/), [Paul Gertler](https://www.paulgert
 With [Adrian Rubli](https://www.adrianrubli.com/)
 
 ### Optimal incentive contracts for malaria case-management
-With With [Maria Dieci](https://mariadieci.com/) and [Paul Gertler](https://www.paulgertler.com/)
+With [Maria Dieci](https://mariadieci.com/), [Paul Gertler](https://www.paulgertler.com/), and [Jonathan Kolstad](https://www.jkolstad.org/)
 
 ### Public funding and medical innovation
 
