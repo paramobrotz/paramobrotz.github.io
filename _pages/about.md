@@ -12,7 +12,7 @@ I am a PhD Candidate in the Economics Department at UC Berkeley. **I will be on 
 <br clear="right"/>
 <br> My research and teaching interests are development economics, industrial organization, and healthcare economics. 
 
-You can find my CV [here](https://www.carlosparamo.org/files/CV_Carlos_Paramo_2024_10_30.pdf).
+You can find my CV [here](https://www.carlosparamo.org/files/CV_Carlos_Paramo_2024_11_06.pdf).
 
 ## Working Papers 
 
