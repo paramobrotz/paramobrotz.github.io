@@ -11,9 +11,9 @@ redirect from:
 
 ## Working Papers 
 
-### Who calls the shots? Financial incentives and provider influence in the adoption of a new health technology
+### Who calls the shots? Financial incentives and provider influence in the adoption of a new health technology ([Job Market Paper](https://www.dropbox.com/scl/fo/jcqkmiv257wh6r3xjai8g/AHjbglr6ZG9fpeTdnvhhYwI?rlkey=qo6ptijlxi13mqaj003hihcb7&st=5ywzzvwc&dl=0))
 <details>
-<summary> <b> [Job Market Paper](https://www.dropbox.com/scl/fo/jcqkmiv257wh6r3xjai8g/AHjbglr6ZG9fpeTdnvhhYwI?rlkey=qo6ptijlxi13mqaj003hihcb7&st=5ywzzvwc&dl=0) </b> </summary>
+<summary> <b> Abstract </b> </summary>
 The choice to adopt an effective healthcare product is often a joint decision between the patient and their medical professional. Many governments and payers use patient subsidies and provider incentives to increase the adoption of new health technologies. Using data from a randomized field experiment in Kenya, I estimate a structural model of patient demand and provider advice for a new contraceptive method. I then use the model to study the welfare effects to the patient from the introduction of demand and supply side incentives to adopt the new technology. This approach allows the study of channels that promote diffusion, including the roles of provider advice, financial incentives and altruism, as well as patient preferences. Taken together, the results suggest that changes in provider advice due to their altruism and financial incentives are key to increasing adoption of the new technology and making incentive programs effective, regardless of whether the incentive targets the patient or the provider. In fact, changes in provider advice account for 79% of the welfare benefits of a policy that reduces the price to the patient. To be effective, incentive policies need to account for the central role that the provider takes in medical decision-making.
 </details>
 
@@ -26,10 +26,10 @@ We examine whether a diagnosis contingent incentive contract structure improves 
 
 ## Publications
 
-### Targeting Impact versus Deprivation
+### Targeting Impact versus Deprivation ([Forthcoming, American Economic Review](https://econweb.ucsd.edu/~pniehaus/papers/targeting_impact_deprivation.pdf))
 With [Johannes Haushofer](https://haushofer.ne.su.se/), [Edward Miguel](https://econ.berkeley.edu/profile/edward-miguel), [Michael Walker](https://www.michaelwwalker.me/) and [Paul Niehaus](https://econweb.ucsd.edu/~pniehaus/)  
 <details>
-<summary> <b>[Forthcoming, American Economic Review](https://econweb.ucsd.edu/~pniehaus/papers/targeting_impact_deprivation.pdf)</b> </summary>
+<summary> <b>Abstract</b> </summary>
 A large literature has examined how best to target anti-poverty programs to those most deprived in some sense (e.g., consumption). We examine the potential tradeoff between this objective and targeting those most impacted by such programs. We work in the context of an NGO cash transfer program in Kenya, employing recent advances in machine learning methods and dynamic outcome data to learn proxy means tests that jointly target both objectives. Targeting solely on the basis of deprivation is not attractive in this setting under standard social welfare criteria unless the planner’s preferences are extremely redistributive.
 </details>
 
