@@ -27,7 +27,8 @@ With [Maria Dieci](https://mariadieci.com/), [Paul Gertler](https://www.paulgert
 <details>
 <summary> <b>Abstract</b> </summary>
 We examine whether a diagnosis contingent incentive contract structure improves the treatment of malaria, and whether it's best to target those incentives to patients or providers. The contract provides incentives to use rapid tests (RDTs) to diagnose patient malaria status combined with incentives to treat with antimalarial drugs (ACTs) if the patient tests positive but not if test negative. Using data from a cluster randomized field experiment with 140 pharmacies in malaria endemic regions of Kenya, we find that both patient subsidies and provider incentives significantly increased RDT testing uptake.  Absent incentives, 87% of suspected malaria patients purchase ACTs, of which as many as 90\% are doing so unnecessarily because they do not have malaria. Across all arms, the incentives lead to an increase RDT test use by 25 pp and a 14 pp decline in the purchase of ACTs. The effects are stronger for patient incentives than for provider incentives. Patient incentives are translated into lower prices whereas provider incentives work through information and advice. Using a model of patient choice, we estimate that diagnosis-contingent contracts increase social welfare substantially relative to program costs, with a rate of return of at least 50% across all contract types being tested. The primary gain in welfare comes from a reduction in the use of ACTs from patients who test negative and therefore do not need treatment.
-<\details>
+
+</details>
 
 ## Publications
 
@@ -39,7 +40,8 @@ With [Johannes Haushofer](https://haushofer.ne.su.se/), [Edward Miguel](https://
 <details>
 <summary> <b>Abstract</b> </summary>
 A large literature has examined how best to target anti-poverty programs to those most deprived in some sense (e.g., consumption). We examine the potential tradeoff between this objective and targeting those most impacted by such programs. We work in the context of an NGO cash transfer program in Kenya, employing recent advances in machine learning methods and dynamic outcome data to learn proxy means tests that jointly target both objectives. Targeting solely on the basis of deprivation is not attractive in this setting under standard social welfare criteria unless the planner’s preferences are extremely redistributive.
-<\details>
+
+</details>
 
 ## Works in progress
 
