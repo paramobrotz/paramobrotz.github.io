@@ -44,7 +44,10 @@ A large literature has examined how best to target anti-poverty programs to thos
 ### Demand for generic medications and unobserved product quality in Mexico
 With [Adrian Rubli](https://www.adrianrubli.com/)
 
-### Optimal incentive contracts for malaria case-manage
+### Optimal incentive contracts for malaria case-management
+With [Maria Dieci](https://mariadieci.com/), [Paul Gertler](https://www.paulgertler.com/), and [Jonathan Kolstad](https://www.jkolstad.org/)
+
+### Public funding and medical innovation
 
 <!-- ## Other projects
 
