@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in the Economics Department at UC Berkeley. I will be a Postdoctoral Fellow at the Stanford King Center on Global Development during the 2025–2026 academic year, and in July 2026 I will join the Economics Department at Boston University as an Assistant Professor.
+I am a PhD Candidate in the Economics Department at UC Berkeley. I will be a Postdoctoral Fellow at the [Stanford King Center](https://kingcenter.stanford.edu/) during the 2025–2026 academic year, and in July 2026 I will join the [Economics Department](https://www.bu.edu/econ/) at Boston University as an Assistant Professor.
 <br clear="right"/>
 <br> My research and teaching interests are development economics, industrial organization, and healthcare economics. 
 
