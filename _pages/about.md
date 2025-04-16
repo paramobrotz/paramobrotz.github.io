@@ -32,7 +32,7 @@ In this project, we study the welfare effects of diagnosis-contingent contracts 
 
 ## Publications
 
-### Targeting Impact versus Deprivation ([Forthcoming, American Economic Review](https://econweb.ucsd.edu/~pniehaus/papers/targeting_impact_deprivation.pdf))
+### Targeting Impact versus Deprivation ([Forthcoming, American Economic Review](https://econweb.ucsd.edu/~pniehaus/papers/targeting_impact_deprivation.pdf){:target="_blank"})
 With [Johannes Haushofer](https://haushofer.ne.su.se/){:target="_blank"}, [Edward Miguel](https://econ.berkeley.edu/profile/edward-miguel){:target="_blank"}, [Michael Walker](https://www.michaelwwalker.me/){:target="_blank"} and [Paul Niehaus](https://econweb.ucsd.edu/~pniehaus/){:target="_blank"}  
 <details>
 <summary> <b>Abstract</b> </summary>
