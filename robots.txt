@@ -1,2 +1,7 @@
 User-agent: *
 Disallow: /files/
+Disallow: /talks/
+Disallow: /teaching/
+Dissalow: /presentations/
+Disallow: /publication/
+Disallow: /portfolio/
