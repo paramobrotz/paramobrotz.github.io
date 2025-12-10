@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my CV [here](https://www.carlosparamo.org/files/CV_Carlos_Paramo_2024_11_06.pdf){:target="_blank"}.
+You can find my CV [here](https://www.carlosparamo.org/files/CV_Carlos_Paramo_2025.pdf){:target="_blank"}.
