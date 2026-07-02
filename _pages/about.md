@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the [Stanford King Center](https://kingcenter.stanford.edu/){:target="_blank"}. In July 2026 I will join the [Economics Department](https://www.bu.edu/econ/){:target="_blank"} at Boston University as an Assistant Professor.
+I am an Assistant Professor at the [Economics Department](https://www.bu.edu/econ/){:target="_blank"} at Boston University.
 <br clear="right"/>
 <br> My research and teaching interests are development economics, industrial organization, and healthcare economics. 
 
