@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Selected academic presentations"
+published: false
 robots: "noindex"
 permalink: /presentations/
 author_profile: true
