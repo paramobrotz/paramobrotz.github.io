@@ -12,22 +12,22 @@ I am an Assistant Professor at the [Economics Department](https://www.bu.edu/eco
 <br clear="right"/>
 <br> My research and teaching interests are development economics, industrial organization, and healthcare economics. 
 
-You can find my CV [here](https://www.carlosparamo.org/files/CV_Carlos_Paramo_2025.pdf){:target="_blank"}.
+You can find my CV [here](https://www.carlosparamo.org/files/CV_Carlos_Paramo_2026.pdf){:target="_blank"}.
 
 
 ## Working Papers 
 
-### Who calls the shots? Financial incentives and provider influence in the adoption of a new health technology ([Job Market Paper](https://www.dropbox.com/scl/fo/jcqkmiv257wh6r3xjai8g/AHjbglr6ZG9fpeTdnvhhYwI?rlkey=qo6ptijlxi13mqaj003hihcb7&st=5ywzzvwc&dl=0){:target="_blank"})
+### Who calls the shots? Financial incentives and provider influence in the adoption of a new health technology ([Current draft](https://www.dropbox.com/scl/fo/jcqkmiv257wh6r3xjai8g/AHjbglr6ZG9fpeTdnvhhYwI?rlkey=qo6ptijlxi13mqaj003hihcb7&st=5ywzzvwc&dl=0){:target="_blank"})
 <details>
 <summary> <b> Abstract </b> </summary>
 The choice to adopt an effective healthcare product is often a joint decision between the patient and their medical professional. Many governments and payers use patient subsidies and provider incentives to increase the adoption of new health technologies. Using data from a randomized field experiment in Kenya, I estimate a structural model of patient demand and provider advice for a new contraceptive method. I then use the model to study the welfare effects to the patient from the introduction of demand and supply side incentives to adopt the new technology. This approach allows the study of channels that promote diffusion, including the roles of provider advice, financial incentives and altruism, as well as patient preferences. Taken together, the results suggest that changes in provider advice due to their altruism and financial incentives are key to increasing adoption of the new technology and making incentive programs effective, regardless of whether the incentive targets the patient or the provider. In fact, changes in provider advice account for 79% of the welfare benefits of a policy that reduces the price to the patient. To be effective, incentive policies need to account for the central role that the provider takes in medical decision-making.
 </details>
 
-### Using Diagnosis Contingent Incentive Contracts to Improve Malaria Treatment ([current draft](https://mariadieci.com/pages/working_papers/Dieci_Gertler_Kolstad_Paramo_Malaria_RCT.pdf){:target="_blank"})
+### Tying Incentives to Information: Diagnosis-Contingent Contracts and Biased Beliefs in Healthcare ([NBER Working Paper](https://www.carlosparamo.org/files/w35543.pdf){:target="_blank"})
 With [Maria Dieci](https://mariadieci.com/){:target="_blank"}, [Paul Gertler](https://www.paulgertler.com/){:target="_blank"}, and [Jonathan Kolstad](https://www.jkolstad.org/){:target="_blank"}
 <details>
 <summary> <b>Abstract</b> </summary>
-We examine a novel diagnosis contingent incentive contract designed to improve the treatment of malaria. The contract provides incentives to use rapid diagnostic tests (RDTs) to diagnose patient malaria status combined with incentives to treat with antimalarial drugs (ACTs) if the patient tests positive but not if they test negative. Using data from a cluster randomized field experiment with 140 pharmacies in Kenya, we find that both patient subsidies and provider incentives significantly increased RDT testing uptake and reduced the purchase of unnecesary ACTs by those whose test negative. Patient incentives operate through lower prices, whereas provider incentives work through providers giving better information and advice. Using a model of patient choice, we estimate that diagnosis-contingent contracts increase social welfare substantially relative to program costs, where the primary gain in welfare comes from a reduction in the use of ACTs from patients who test negative and therefore do not need treatment. Finally, we use the experiment to estimate a structural model that allows us to explore counterfactual contract designs. We find that the biggest welfare gains per unit of program cost come from contracts that load all of the incentives in reducing the price of treatment contingent on testing positive for malaria due to biased patient beliefs. The optimal contract delivers 4 times the welfare gains of a policy that simply offers free testing while keeping expected costs to the planner below the retail price of tests.
+Unnecessary treatment reflects a gap between what patients believe about their health and their true condition; people often seek and consume care for diseases they suspect, but do not know that they actually have. The value a patient places on diagnostic testing therefore depends on their priors about being sick. When those beliefs are biased, the resulting testing rate might be sub-optimal and leave welfare on the table. We study diagnosis-contingent incentive contracts, which tie treatment incentives to diagnostic results. For malaria, the contract subsidizes rapid diagnostic tests (RDTs) and antimalarials (ACTs) only for patients who test positive. In a cluster-randomized experiment across 140 Kenyan pharmacies, both patient subsidies and provider incentives roughly tripled testing and sharply reduced unnecessary ACT purchases among test-negative patients, working through distinct channels: patient subsidies through lower prices, provider incentives through information and advice. A model of patient choice implies these contracts raise social welfare well above their cost. Estimating the model structurally, we find that because patients substantially overestimate their infection risk, loading incentives onto diagnosis-contingent treatment discounts delivers four times the welfare gains of free testing programs.
 </details>
 
 ## Publications
@@ -41,11 +41,11 @@ A large literature has examined how best to target anti-poverty programs to thos
 
 ## Works in progress
 
+### Pediatric fever care in Ugandan pharmacies (funded by the WAM Foundation)
+With [Maria Dieci](https://mariadieci.com/){:target="_blank"}
+
 ### Demand for generic medications and unobserved product quality in Mexico
 With [Adrian Rubli](https://www.adrianrubli.com/){:target="_blank"}
-
-### Optimal incentive contracts for malaria case-management
-With [Maria Dieci](https://mariadieci.com/){:target="_blank"}, [Paul Gertler](https://www.paulgertler.com/){:target="_blank"}, and [Jonathan Kolstad](https://www.jkolstad.org/){:target="_blank"}
 
 ### Public funding and medical innovation
 
