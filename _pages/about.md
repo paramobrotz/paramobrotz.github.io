@@ -17,7 +17,7 @@ You can find my CV [here](https://www.carlosparamo.org/files/CV_Carlos_Paramo_20
 
 ## Working Papers 
 
-### Who calls the shots? Financial incentives and provider influence in the adoption of a new health technology ([Current draft](https://www.dropbox.com/scl/fo/jcqkmiv257wh6r3xjai8g/AHjbglr6ZG9fpeTdnvhhYwI?rlkey=qo6ptijlxi13mqaj003hihcb7&st=5ywzzvwc&dl=0){:target="_blank"})
+### Who calls the shots? Financial incentives and provider influence in the adoption of a new health technology (Updated draft coming soon!)
 <details>
 <summary> <b> Abstract </b> </summary>
 The choice to adopt an effective healthcare product is often a joint decision between the patient and their medical professional. Many governments and payers use patient subsidies and provider incentives to increase the adoption of new health technologies. Using data from a randomized field experiment in Kenya, I estimate a structural model of patient demand and provider advice for a new contraceptive method. I then use the model to study the welfare effects to the patient from the introduction of demand and supply side incentives to adopt the new technology. This approach allows the study of channels that promote diffusion, including the roles of provider advice, financial incentives and altruism, as well as patient preferences. Taken together, the results suggest that changes in provider advice due to their altruism and financial incentives are key to increasing adoption of the new technology and making incentive programs effective, regardless of whether the incentive targets the patient or the provider. In fact, changes in provider advice account for 79% of the welfare benefits of a policy that reduces the price to the patient. To be effective, incentive policies need to account for the central role that the provider takes in medical decision-making.
@@ -56,4 +56,7 @@ With [Maria Dieci](https://mariadieci.com/) and [Paul Gertler](https://www.paulg
 
 We investigate how targeted subsidies for long-acting injectable contraception and provider incentives impact initial uptake, sustained adoption, pricing and stocking decisions for contraceptive products in local markets, sales, and user health outcomes. Following prior work on the effectiveness of subsidies to promote the adoption of new technologies and experience goods, we aim to test if subsidies lead to sustained adoption of injectable contraception as well as to study possible mechanisms for continued usage (or lack of) such as learning, price anchoring, and information effects. We propose a market-level cluster randomized controlled trial in 140 pharmacies in Kenya to answer these questions. Patient subsidies and pharmacist incentives will be cross-randomized and compared against the status quo to evaluate their effectiveness in promoting sustained adoption. 
 
-AEA RCT Registry [9020](https://www.socialscienceregistry.org/trials/9020) -->
+AEA RCT Registry [9020](https://www.socialscienceregistry.org/trials/9020) 
+
+([Current draft](https://www.dropbox.com/scl/fo/jcqkmiv257wh6r3xjai8g/AHjbglr6ZG9fpeTdnvhhYwI?rlkey=qo6ptijlxi13mqaj003hihcb7&st=5ywzzvwc&dl=0){:target="_blank"})
+-->
