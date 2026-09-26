@@ -46,6 +46,7 @@
 .paper-text h3 { margin-top: 0; font-size: 1.25em; font-weight: normal; line-height: 1.3; color: #222; }
 .paper-text p.paper-link { font-size: 1.25em; margin: -0.2em 0 0.5em; }
 .paper-text p.paper-link + p { font-size: 0.9em; } /* coauthors line */
+.paper-text p.paper-link + p a { color: inherit; }
 .paper-fig { display: block; flex: 0 0 38%; margin: 0.3em 0 0; }
 .paper-fig img { width: 100%; border: 1px solid #eee; }
 .paper-fig figcaption { font-size: 0.75em; color: #666; margin-top: 0.3em; text-align: center; }
