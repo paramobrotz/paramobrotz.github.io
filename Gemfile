@@ -16,7 +16,11 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# wdm 0.1.x fails to build on Ruby 3.x; Jekyll falls back to polling without it
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?
+
+# Windows has no system zoneinfo database, so Jekyll needs this to start locally
+gem "tzinfo-data" if Gem.win_platform?
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
