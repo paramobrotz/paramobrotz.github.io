@@ -42,7 +42,7 @@ A large literature has examined how best to target anti-poverty programs to thos
 <div class="paper-text" markdown="1">
 ### Who calls the shots? Financial incentives and provider influence in the adoption of a new health technology
 
-[Current draft](https://www.carlosparamo.org/files/SI_paper_9_26_2026.pdf){:target="_blank"}
+[Current draft](https://www.carlosparamo.org/files/FP_11_8_2026.pdf){:target="_blank"}
 {: .paper-link}
 
 With [Maria Dieci](https://mariadieci.com/){:target="_blank"} and [Paul Gertler](https://www.paulgertler.com/){:target="_blank"}
